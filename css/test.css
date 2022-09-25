@@ -2,13 +2,13 @@ body{
 	background-color: lightblue;
 }
 h1{
-	font-size: 30px;
+	font-size: 60px;
 	color: teal;
 }
 
 h2{
 	color: darkred;
-	font-size: 30px;
+	font-size: 90px;
 }
 
 h2{
@@ -29,4 +29,13 @@ h2{
 
 h1 span{
 	color: violet;
+}
+
+h3{
+	color: purple;
+}
+
+.underscore{
+	text-underline-position: 20px;
+	color: hotpink;
 }

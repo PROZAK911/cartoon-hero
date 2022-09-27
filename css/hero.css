@@ -1,0 +1,73 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', 'Times New Roman';
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: firebrick;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+h1, h2{
+	font-family: 'Germania One', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 150px;
+	border: 10px solid black;
+	width: 380px;
+    height: 450px;
+}
+
+main{
+	max-width: 800px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: firebrick;
+}
+
+a{
+	color: firebrick;
+}
+a:hover{
+	color: navy;
+}
+
+footer{
+	background-color: firebrick;
+	height: 50px;
+}
+
+footer{
+	font-family: 'Germania One', cursive;
+	color: white;
+
+}
+
+
+
+
+
+
+
+
+
